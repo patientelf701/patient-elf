@@ -14,6 +14,8 @@ namespace SandboxCSharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Thank you.");
+
             string psaResponse = @"<TraceID>948639bd9df74f45b0566da0ff5766d8</TraceID>
 <ResultCount>4</ResultCount>
 <EstimatedCount>0</EstimatedCount>
